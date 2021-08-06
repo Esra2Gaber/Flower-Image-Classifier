@@ -1,7 +1,7 @@
 # Flower-Image-Classifier
 
 The project’s main objective is to train an image classifier to recognize different species of flowers based on some features. 
-Three transfer learning approaches wereused to reach the best accuracy.
+Three transfer learning approaches were used to reach the best accuracy.
 
 ## DataSet
 
